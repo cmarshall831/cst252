@@ -1,0 +1,16 @@
+body {
+background-color: lightgreen;
+border: dashed black 3pt;
+}
+ h1 {
+   color: navy;
+   font-size: 60px;
+   font-style: oblique;
+   text-align: center;
+ }
+p {
+  padding: 10px;
+}
+.header {
+  border: dotted white 10px;
+}
