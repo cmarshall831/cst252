@@ -1,0 +1,10 @@
+body {
+  background: lightgreen;
+  border: black dotted 3px;
+  text-align: center;
+}
+
+#challenge {
+  font-family: cursive;
+  font-weight: bold;
+}
